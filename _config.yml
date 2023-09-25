@@ -80,41 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  name             : "Zhao Zhang"
+  avatar           : "zz.png"
+  bio              : "MOE Key Laboratory of Metabolism and Molecular Medicine"
+  location         : "Shanghai, China"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=66q-HroAAAAJ"
+  email            : "ZhaoZhang@fudan.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Zhao-Zhang-24"
+  orcid            : "https://orcid.org/0000-0002-3757-8469"
 
 
 # Reading Files
