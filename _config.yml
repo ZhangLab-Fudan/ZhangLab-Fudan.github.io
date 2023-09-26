@@ -151,10 +151,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  team:
+  people:
     output: true
     permalink: /:collection/:path/
-  news:
+  resources:
     output: true
     permalink: /:collection/:path/
 
@@ -187,19 +187,19 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _team
+  # _people
   - scope:
       path: ""
-      type: team
+      type: people
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _news
+  # _resources
   - scope:
       path: ""
-      type: news
+      type: resources
     values:
       layout: single
       author_profile: true
