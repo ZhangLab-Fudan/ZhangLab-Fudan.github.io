@@ -10,7 +10,7 @@ title: "Team Members"
     </div>
     <div style="float: right;display: flex;flex-wrap: wrap;width: 75%;justify-content: space-between;">
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">PI in Department of Biochemistry and Molecular Biology, Shanghai Medical College, Fudan University.</div>
-        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;"><a href="mailto:zhaozhang@fudan.edu.cn" style="text-decoration:underline;color:#CCDDFF;">zhaozhang@fudan.edu.cn</a></div>
+        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;"><a href="mailto:zhaozhang@fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">zhaozhang@fudan.edu.cn</a></div>
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Ph.D. Bioinformatics, Fudan University (2016)</div>
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Postdoc, University of Texas Health Science center at Houston (UThealth, 2021</div>
     </div>
@@ -25,7 +25,7 @@ title: "Team Members"
     <div style="float: right;display: flex;flex-wrap: wrap;width: 75%;justify-content: space-between;">
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Ph.D student</div>
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">08/2021 - Present</div>
-        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;"><a href="mailto:zhangcy23@m.fudan.edu.cn" style="text-decoration:underline;color:#CCDDFF;">zhangcy23@m.fudan.edu.cn</a></div>
+        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;"><a href="mailto:zhangcy23@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">zhangcy23@m.fudan.edu.cn</a></div>
     </div>
     <div style="margin-bottom: 200px;"></div>
 </div>
@@ -38,7 +38,7 @@ title: "Team Members"
     <div style="float: right;display: flex;flex-wrap: wrap;width: 75%;justify-content: space-between;">
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Ph.D student</div>
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">08/2022 - Present</div>
-        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;"><a href="mailto:whu22@m.fudan.edu.cn" style="text-decoration:underline;color:#CCDDFF;">whu22@m.fudan.edu.cn</a></div>
+        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;"><a href="mailto:whu22@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">whu22@m.fudan.edu.cn</a></div>
     </div>
     <div style="margin-bottom: 200px;"></div>
 </div>
@@ -51,7 +51,7 @@ title: "Team Members"
     <div style="float: right;display: flex;flex-wrap: wrap;width: 75%;justify-content: space-between;">
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Master's student</div>
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">08/2022 - Present</div>
-        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;"><a href="mailto:yunzhewang22@m.fudan.edu.cn" style="text-decoration:underline;color:#CCDDFF;">yunzhewang22@m.fudan.edu.cn</a></div>
+        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;"><a href="mailto:yunzhewang22@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">yunzhewang22@m.fudan.edu.cn</a></div>
     </div>
     <div style="margin-bottom: 200px;"></div>
 </div>
@@ -64,7 +64,7 @@ title: "Team Members"
     <div style="float: right;display: flex;flex-wrap: wrap;width: 75%;justify-content: space-between;">
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Ph.D student</div>
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">08/2023 - Present</div>
-        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;"><a href="mailto:231110100118@m.fudan.edu.cn" style="text-decoration:underline;color:#CCDDFF;">231110100118@m.fudan.edu.cn</a></div>
+        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;"><a href="mailto:231110100118@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">231110100118@m.fudan.edu.cn</a></div>
     </div>
     <div style="margin-bottom: 200px;"></div>
 </div>
@@ -77,7 +77,7 @@ title: "Team Members"
     <div style="float: right;display: flex;flex-wrap: wrap;width: 75%;justify-content: space-between;">
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Master's student</div>
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">08/2023 - Present</div>
-        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;"><a href="mailto:yzfang23@m.fudan.edu.cn" style="text-decoration:underline;color:#CCDDFF;">yzfang23@m.fudan.edu.cn</a></div>
+        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;"><a href="mailto:yzfang23@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">yzfang23@m.fudan.edu.cn</a></div>
     </div>
     <div style="margin-bottom: 200px;"></div>
 </div>
@@ -90,7 +90,7 @@ title: "Team Members"
     <div style="float: right;display: flex;flex-wrap: wrap;width: 75%;justify-content: space-between;">
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Undergraduate student</div>
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">08/2023 - Present</div>
-        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;"><a href="mailto:20301050261@fudan.edu.cn" style="text-decoration:underline;color:#CCDDFF;">20301050261@fudan.edu.cn</a></div>
+        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;"><a href="mailto:20301050261@fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">20301050261@fudan.edu.cn</a></div>
     </div>
     <div style="margin-bottom: 200px;"></div>
 </div>
