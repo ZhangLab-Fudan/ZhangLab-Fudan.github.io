@@ -10,11 +10,10 @@ redirect_from:
 
 Assistant Professors (PI) in Department of Biochemistry and Molecular Biology, Shanghai Medical College, Fudan University.
 
-zhaozhang@fudan.edu.cn
-
-Ph.D. Bioinformatics, Fudan University (2016)
-
-Postdoc, University of Texas Health Science center at Houston (UThealth, 2021)
+Education
+======
+1. Ph.D. Bioinformatics, Fudan University (2016)
+2. Postdoc, University of Texas Health Science center at Houston (UThealth, 2021)
 
 Research Interests
 ======
