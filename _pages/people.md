@@ -14,11 +14,11 @@ title: "Team Members"
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Ph.D. Bioinformatics, Fudan University (2016)</div>
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Postdoc, University of Texas Health Science center at Houston (UThealth, 2021</div>
     </div>
-    <div style="margin-bottom: 100px;"></div>
+    <div style="margin-bottom: 200px;"></div>
 </div>
 
 <div>
-    <h2>Wei Hu</h2>
+    <div style="width: 100%;font-weight: 1000;color: #4c4c4c;font-size: 14px;margin: 10px;">Wei Hu</div>
     <div style="float: left;margin-right: 10px;">
         <img src="/images/wh.jpg" width="120px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
     </div>
@@ -26,7 +26,7 @@ title: "Team Members"
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Ph.D student enrolled in 2022</div>
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">whu22@m.fudan.edu.cn</div>
     </div>
-    <div style="margin-bottom: 100px;"></div>
+    <div style="margin-bottom: 200px;"></div>
 </div>
 
 <div>
@@ -38,7 +38,7 @@ title: "Team Members"
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Ph.D student enrolled in 2023</div>
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">zhangcy23@m.fudan.edu.cn</div>
     </div>
-    <div style="margin-bottom: 100px;"></div>
+    <div style="margin-bottom: 200px;"></div>
 </div>
 
 <div>
@@ -50,7 +50,7 @@ title: "Team Members"
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Master's student enrolled in 2022</div>
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">yunzhewang22@m.fudan.edu.cn</div>
     </div>
-    <div style="margin-bottom: 100px;"></div>
+    <div style="margin-bottom: 200px;"></div>
 </div>
 
 <div>
@@ -62,7 +62,7 @@ title: "Team Members"
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Ph.D student enrolled in 2023</div>
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">xiwenyang23@m.fudan.edu.cn</div>
     </div>
-    <div style="margin-bottom: 100px;"></div>
+    <div style="margin-bottom: 200px;"></div>
 </div>
 
 <div>
@@ -74,7 +74,7 @@ title: "Team Members"
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Master's student enrolled in 2023</div>
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">yuzhufang23@m.fudan.edu.cn</div>
     </div>
-    <div style="margin-bottom: 100px;"></div>
+    <div style="margin-bottom: 200px;"></div>
 </div>
 
 <div>
@@ -86,6 +86,6 @@ title: "Team Members"
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Undergraduate student enrolled in 2020</div>
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">20301050261@fudan.edu.cn</div>
     </div>
-    <div style="margin-bottom: 100px;"></div>
+    <div style="margin-bottom: 200px;"></div>
 </div>
 
