@@ -4,7 +4,7 @@ title: "Team Members"
 ---
 
 <div>
-    <h2>Dr. Zhao Zhang</h2>
+    <div style="width: 100%;font-weight: 1000;color: #4c4c4c;font-size: 26px;margin: 10px;">Dr. Zhao Zhang</div>
     <div style="float: left;margin-right: 10px;">
         <img src="/images/zz.png" width="120px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
     </div>
@@ -30,7 +30,7 @@ title: "Team Members"
 </div>
 
 <div>
-    <h2>Chenyang Zhang</h2>
+    <div style="width: 100%;font-weight: 1000;color: #4c4c4c;font-size: 26px;margin: 10px;">Chenyang Zhang</div>
     <div style="float: left;margin-right: 10px;">
         <img src="/images/cyz.jpg" width="120px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
     </div>
@@ -42,7 +42,7 @@ title: "Team Members"
 </div>
 
 <div>
-    <h2>Yunzhe Wang</h2>
+    <div style="width: 100%;font-weight: 1000;color: #4c4c4c;font-size: 26px;margin: 10px;">Yunzhe Wang</div>
     <div style="float: left;margin-right: 10px;">
         <img src="/images/yzw.jpg" width="120px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
     </div>
@@ -54,7 +54,7 @@ title: "Team Members"
 </div>
 
 <div>
-    <h2>Xiwen Yang</h2>
+    <div style="width: 100%;font-weight: 1000;color: #4c4c4c;font-size: 26px;margin: 10px;">Xiwen Yang</div>
     <div style="float: left;margin-right: 10px;">
         <img src="/images/xwy.jpg" width="120px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
     </div>
@@ -66,7 +66,7 @@ title: "Team Members"
 </div>
 
 <div>
-    <h2>Yuzhu Fang</h2>
+    <div style="width: 100%;font-weight: 1000;color: #4c4c4c;font-size: 26px;margin: 10px;">Yuzhu Fang</div>
     <div style="float: left;margin-right: 10px;">
         <img src="/images/yzf.jpg" width="120px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
     </div>
@@ -78,7 +78,7 @@ title: "Team Members"
 </div>
 
 <div>
-    <h2>Xinyi Zhang</h2>
+    <div style="width: 100%;font-weight: 1000;color: #4c4c4c;font-size: 26px;margin: 10px;">Xinyi Zhang</div>
     <div style="float: left;margin-right: 10px;">
         <img src="/images/xyz.jpg" width="120px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
     </div>
