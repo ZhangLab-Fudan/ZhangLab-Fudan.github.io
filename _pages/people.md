@@ -6,7 +6,7 @@ title: "Team Members"
 <div>
     <div style="width: 100%;font-weight: 1000;color: #4c4c4c;font-size: 26px;margin: 10px;">Dr. Zhao Zhang</div>
     <div style="float: left;margin-right: 10px;">
-        <img src="/images/zz.png" width="150px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
+        <img src="/images/zz.png" width="120px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
     </div>
     <div style="float: right;display: flex;flex-wrap: wrap;width: 75%;justify-content: space-between;">
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">PI in Department of Biochemistry and Molecular Biology, Shanghai Medical College, Fudan University.</div>
