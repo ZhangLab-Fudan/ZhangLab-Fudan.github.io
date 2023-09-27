@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhao Zhang"
-  avatar           : "zz.png"
+#  avatar           : "zz.png"
   bio              : "MOE Key Laboratory of Metabolism and Molecular Medicine, Fudan University"
   location         : "Shanghai, China"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=66q-HroAAAAJ"
