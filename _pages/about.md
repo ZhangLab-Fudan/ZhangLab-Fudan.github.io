@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-<div><img src="./images/figure.png></div>
+<div style="float: center;">
+        <img src="./images/figure.png">
+</div>
 
 Dr. Zhao Zhang
 ======
