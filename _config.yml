@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Zhao Zhang"
-#  avatar           : "zz.png"
-  bio              : "Assistant Professors (PI) in Department of Biochemistry and Molecular Biology, Shanghai Medical College, Fudan University."
+  avatar           : "logo.png"
+  bio              : "PI in Department of Biochemistry and Molecular Biology, Shanghai Medical College, Fudan University."
   location         : "Shanghai, China"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=66q-HroAAAAJ"
   email            : "ZhaoZhang@fudan.edu.cn"
