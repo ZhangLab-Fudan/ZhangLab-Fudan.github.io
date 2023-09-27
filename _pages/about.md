@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div>
-  <img src="./image/>
+  <img src="./images/figure.png>
 </div>
 
 Dr. Zhao Zhang
