@@ -28,7 +28,7 @@ title: "Team Members"
 </div>
 <div style="float: right;display: flex;flex-wrap: wrap;width: 75%;justify-content: space-between;">
     <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Ph.D student enrolled in 2022</div>
-    <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">weihu22@m.fudan.edu.cn</div>
+    <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">whu22@m.fudan.edu.cn</div>
 </div>
 
 <div>
