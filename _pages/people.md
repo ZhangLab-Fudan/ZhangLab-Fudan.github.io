@@ -12,7 +12,7 @@ title: "Team Members"
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">PI in Department of Biochemistry and Molecular Biology, Shanghai Medical College, Fudan University.</div>
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;"><a href="mailto:zhaozhang@fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">zhaozhang@fudan.edu.cn</a></div>
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Ph.D. Bioinformatics, Fudan University (2016)</div>
-        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Postdoc, University of Texas Health Science center at Houston (UThealth, 2021</div>
+        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Postdoc, University of Texas Health Science center at Houston (UThealth, 2021)</div>
     </div>
     <div style="margin-bottom: 200px;"></div>
 </div>
