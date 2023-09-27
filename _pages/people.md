@@ -5,8 +5,6 @@ title: "Team Members"
 
 <div>
     <div style="width: 80%;font-weight: 1000;color: #4c4c4c;font-size: 25px;margin: 5px;">Dr. Zhao Zhang</div>
-</div>
-<div>
     <div style="float: left;margin-right: 10px;">
         <img src="/images/zz.png" width="120px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
     </div>
@@ -20,8 +18,6 @@ title: "Team Members"
 
 <div>
     <div style="width: 80%;font-weight: 1000;color: #4c4c4c;font-size: 25px;margin: 5px;">Wei Hu</div>
-</div>
-<div>
     <div style="float: left;margin-right: 10px;">
         <img src="/images/wh.jpg" width="150px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
     </div>
@@ -31,10 +27,9 @@ title: "Team Members"
     <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">whu22@m.fudan.edu.cn</div>
 </div>
 
+
 <div>
     <div style="width: 80%;font-weight: 1000;color: #4c4c4c;font-size: 25px;margin: 5px;">Chenyang Zhang</div>
-</div>
-<div>
     <div style="float: left;margin-right: 10px;">
         <img src="/images/cyz.jpg" width="150px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
     </div>
@@ -47,8 +42,6 @@ title: "Team Members"
 
 <div>
     <div style="width: 80%;font-weight: 1000;color: #4c4c4c;font-size: 25px;margin: 5px;">Yunzhe Wang</div>
-</div>
-<div>
     <div style="float: left;margin-right: 10px;">
         <img src="/images/yzw.jpg" width="150px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
     </div>
@@ -61,8 +54,6 @@ title: "Team Members"
 
 <div>
     <div style="width: 80%;font-weight: 1000;color: #4c4c4c;font-size: 25px;margin: 5px;">Xiwen Yang</div>
-</div>
-<div>
     <div style="float: left;margin-right: 10px;">
         <img src="/images/xwy.jpg" width="150px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
     </div>
@@ -75,8 +66,6 @@ title: "Team Members"
 
 <div>
     <div style="width: 80%;font-weight: 1000;color: #4c4c4c;font-size: 25px;margin: 5px;">Yuzhu Fang</div>
-</div>
-<div>
     <div style="float: left;margin-right: 10px;">
         <img src="/images/yzf.jpg" width="150px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
     </div>
@@ -86,10 +75,9 @@ title: "Team Members"
     <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">yuzhufang23@m.fudan.edu.cn</div>
 </div>
 
+
 <div>
     <div style="width: 80%;font-weight: 1000;color: #4c4c4c;font-size: 25px;margin: 5px;">Xinyi Zhang</div>
-</div>
-<div>
     <div style="float: left;margin-right: 10px;">
         <img src="/images/xyz.jpg" width="150px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
     </div>
