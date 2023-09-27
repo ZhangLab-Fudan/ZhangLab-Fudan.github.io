@@ -41,7 +41,7 @@ title: "Team Members"
 <div>
     <h2>Yunzhe Wang</h2>
     <div style="float: left;margin-right: 10px;">
-        <img src="/images/cyz.jpg" width="120px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
+        <img src="/images/yzw.jpg" width="120px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
     </div>
     <div style="float: right;display: flex;flex-wrap: wrap;width: 75%;justify-content: space-between;">
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Master's student enrolled in 2022</div>
@@ -52,7 +52,7 @@ title: "Team Members"
 <div>
     <h2>Xiwen Yang</h2>
     <div style="float: left;margin-right: 10px;">
-        <img src="/images/cyz.jpg" width="120px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
+        <img src="/images/xwy.jpg" width="120px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
     </div>
     <div style="float: right;display: flex;flex-wrap: wrap;width: 75%;justify-content: space-between;">
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Ph.D student enrolled in 2023</div>
@@ -63,7 +63,7 @@ title: "Team Members"
 <div>
     <h2>Yuzhu Fang</h2>
     <div style="float: left;margin-right: 10px;">
-        <img src="/images/cyz.jpg" width="120px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
+        <img src="/images/yzf.jpg" width="120px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
     </div>
     <div style="float: right;display: flex;flex-wrap: wrap;width: 75%;justify-content: space-between;">
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Master's student enrolled in 2023</div>
@@ -74,7 +74,7 @@ title: "Team Members"
 <div>
     <h2>Xinyi Zhang</h2>
     <div style="float: left;margin-right: 10px;">
-        <img src="/images/cyz.jpg" width="120px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
+        <img src="/images/xyz.jpg" width="120px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
     </div>
     <div style="float: right;display: flex;flex-wrap: wrap;width: 75%;justify-content: space-between;">
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Undergraduate student enrolled in 2020</div>
