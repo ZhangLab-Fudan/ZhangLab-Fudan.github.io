@@ -6,7 +6,7 @@ title: "Team Members"
 ## Dr. Zhao Zhang
 <div>
     <div style="float: right;margin-right: 10px;">
-        <img src="zz.png" width="120px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
+        <img src="https://github.com/ZhangLab-Fudan/ZhangLab-Fudan.github.io/tree/master/images/zz.png" width="120px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
     </div>
 </div>
 <div style="float: left;display: flex;flex-wrap: wrap;width: 75%;justify-content: space-between;">
