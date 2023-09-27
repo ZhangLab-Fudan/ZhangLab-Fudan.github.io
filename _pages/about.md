@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Dr. Zhao Zhang"
+title: "Home"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+Dr. Zhao Zhang
+======
 Assistant Professors (PI) in Department of Biochemistry and Molecular Biology, Shanghai Medical College, Fudan University.
 
 Experience
