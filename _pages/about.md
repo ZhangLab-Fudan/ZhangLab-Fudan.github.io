@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<div><img src="./images/figure.png></div>
+
 Dr. Zhao Zhang
 ======
 Assistant Professors (PI) in Department of Biochemistry and Molecular Biology, Shanghai Medical College, Fudan University.
