@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhang Lab / Fudan"
+title                    : "ZZhang Lab / Fudan"
 title_separator          : "-"
-name                     : &name "Zhang Lab"
+name                     : &name "ZZhang Lab"
 description              : &description "Fudan"
 url                      : https://zhanglab-fudan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
