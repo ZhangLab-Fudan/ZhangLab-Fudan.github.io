@@ -72,7 +72,7 @@ title: "Team Members"
     </div>
     <div style="float: right;display: flex;flex-wrap: wrap;width: 75%;justify-content: space-between;">
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Master's student enrolled in 2023</div>
-        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;"><a href="mailto:23211010013@m.fudan.edu.cn" style="text-decoration:underline;color:#CCDDFF;">23211010013@m.fudan.edu.cn</a></div>
+        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;"><a href="mailto:yzfang23@m.fudan.edu.cn" style="text-decoration:underline;color:#CCDDFF;">yzfang23@m.fudan.edu.cn</a></div>
     </div>
     <div style="margin-bottom: 200px;"></div>
 </div>
