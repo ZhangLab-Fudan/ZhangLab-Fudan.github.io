@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Zhao Zhang"
+  name             : "ZZhang Lab"
   avatar           : "logo.png"
-  bio              : "PI in Fudan University"
+  bio              : "Contact:"
   location         : "Shanghai, China"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=66q-HroAAAAJ"
   email            : "ZhaoZhang@fudan.edu.cn"
