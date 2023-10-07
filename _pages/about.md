@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <div style="float: center;">
-        <img src="/images/figure.png">
+        <img src="/images/figure.png" width="500px" height="300px">
 </div>
 
 Dr. Zhao Zhang
