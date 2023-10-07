@@ -16,8 +16,8 @@ author_profile: true
 
 ## 2021 ##
 5. **Zhang, Z.**, & Han, L. (2021). <a href="https://www.nature.com/articles/s41587-021-00916-5">Circular RNAs sequenced at last.</a> *Nature Biotechnology*, 39(7), 811-812.
-6. Shao, K., Pu, W., Zhang, J., Guo, S., Qian, F., Glurich, I., ... **Zhang, Z.** & Ding, W. (2021). <a href="https://link.springer.com/article/10.1186/s13148-021-01071-z">DNA hypermethylation contributes to colorectal cancer metastasis by regulating the binding of CEBPB and TFCP2 to the CPEB1 promoter.</a> Clinical epigenetics, 13(1), 89.
-7. **Zhang, Z.**, Zhang, J., Diao, L., & Han, L. (2021). <a href="https://www.nature.com/articles/s41388-020-01630-3">Small non-coding RNAs in human cancer: Function, clinical utility, and characterization.</a> Oncogene, 40(9), 1570-1577.
+6. Shao, K., Pu, W., Zhang, J., Guo, S., Qian, F., Glurich, I., ... **Zhang, Z.** & Ding, W. (2021). <a href="https://link.springer.com/article/10.1186/s13148-021-01071-z">DNA hypermethylation contributes to colorectal cancer metastasis by regulating the binding of CEBPB and TFCP2 to the CPEB1 promoter.</a> *Clinical epigenetics*, 13(1), 89.
+7. **Zhang, Z.**, Zhang, J., Diao, L., & Han, L. (2021). <a href="https://www.nature.com/articles/s41388-020-01630-3">Small non-coding RNAs in human cancer: Function, clinical utility, and characterization.</a> *Oncogene*, 40(9), 1570-1577.
 8. **Zhang, Z.**, Hong, W., Ruan, H., Jing, Y., Li, S., Liu, Y., ... & Han, L. (2021). <a href="https://academic.oup.com/nar/article/49/D1/D932/5943192">HeRA: An atlas of enhancer RNAs across human tissues.</a> *Nucleic acids research*, 49(D1), D932-D938.
 
 ## 2020 ##
