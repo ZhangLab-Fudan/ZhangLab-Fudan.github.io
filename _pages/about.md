@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <div style="float: center;">
-        <img src="/images/figure.png" width="2000px" height="1400px">
+        <img src="/images/figure.png" width="1600px" height="1000px">
 </div>
 
 Dr. Zhao Zhang
