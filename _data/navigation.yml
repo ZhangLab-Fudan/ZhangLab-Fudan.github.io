@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: <img src="/images/home.png" width="30" height="30">"Home"
+  - title: <img src="/images/home.png" width="20" height="20">Home
     url: /home/ 
     
-  - title: <img src="/images/publication.png" width="30" height="30">"Publications"
+  - title: <img src="/images/publication.png" width="50" height="50">Publications
     url: /publications/ 
 
-  - title: <img src="/images/people.png" width="30" height="30">"People"
+  - title: <img src="/images/people.png" width="30" height="30">People
     url: /people/
     
-  - title: <img src="/images/resource.png" width="30" height="30">"Resources"
+  - title: <img src="/images/resource.png" width="30" height="30">Resources
     url: /resources/
