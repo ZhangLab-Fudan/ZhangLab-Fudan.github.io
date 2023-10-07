@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: <img src="/images/home.png" width="20" height="20">Home
+  - title: <img src="/images/home.png" width="30" height="30">Home
     url: /home/ 
     
   - title: <img src="/images/publication.png" width="50" height="50">Publications
