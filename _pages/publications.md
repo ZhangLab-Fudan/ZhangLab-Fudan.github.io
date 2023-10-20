@@ -29,3 +29,9 @@ author_profile: true
 2. Li, S., **Zhang, Z.**, & Han, L. (2020). <a href="https://www.cell.com/trends/cancer/fulltext/S2405-8033(20)30157-6">3D spheroids propel tumor characterization.</a> *Trends in Cancer*, 6(8), 622-624.
 3. Ye, Y., **Zhang, Z.**, Liu, Y., Diao, L., & Han, L. (2020). <a href="https://www.cell.com/trends/genetics/fulltext/S0168-9525(20)30025-1">A multi-omics perspective of quantitative trait loci in precision medicine.</a> *Trends in Genetics*, 36(5), 318-336.
 4. **Zhang, Z.**, Li, S., & Han, L. (2020). <a href="https://www.cell.com/trends/molecular-medicine/fulltext/S1471-4914(19)30301-6">Resolving Spliceosomal Malfunctions Advances RNA-Based Therapeutics.</a> *Trends in Molecular Medicine*, 26(2), 135-137.
+5. **Zhang, Z.**, Ruan, H., Liu, C. J., Ye, Y., Gong, J., Diao, L., ... & Han, L. (2020). <a href="https://www.tandfonline.com/doi/full/10.1080/15476286.2019.1657744">tRic: a user-friendly data portal to explore the expression landscape of tRNAs in human cancers.</a> *RNA biology*, 17(11), 1674-1679.
+6. Hong, W., Ruan, H., **Zhang, Z.**, Ye, Y., Liu, Y., Li, S., ... & Han, L. (2020). <a href="https://academic.oup.com/nar/article/48/D1/D34/5581730">APAatlas: decoding alternative polyadenylation across human tissues.</a> *Nucleic acids research*, 48(D1), D34-D39.
+
+## Before 2020 ##
+1. **Zhang, Z.**, Lee, J. H., Ruan, H., Ye, Y., Krakowiak, J., Hu, Q., ... & Han, L. (2019). <a href="https://www.nature.com/articles/s41467-019-12543-5">Transcriptional landscape and clinical utility of enhancer RNAs for eRNA-targeted therapy in cancer. *Nature communications*, 10(1), 4562.
+2. **Zhang, Z.**, Ye, Y., Gong, J., Ruan, H., Liu, C. J., Xiang, Y., ... & Han, L. (2018). <a href="https://www.nature.com/articles/s42003-018-0239-8">Global analysis of tRNA and translation factor expression reveals a dynamic landscape of translational regulation in human cancers.</a> *Communications Biology*, 1(1), 234.
