@@ -49,7 +49,7 @@ title: "Team Members"
         <img src="/images/yzw.jpg" width="150px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);margin: 10px;">
     </div>
     <div style="float: right;display: flex;flex-wrap: wrap;width: 75%;justify-content: space-between;">
-        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Master's student</div>
+        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Ph.D student</div>
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">08/2022 - Present</div>
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;"><a href="mailto:yunzhewang22@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">yunzhewang22@m.fudan.edu.cn</a></div>
     </div>
