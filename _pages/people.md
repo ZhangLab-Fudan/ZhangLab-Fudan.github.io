@@ -83,6 +83,19 @@ title: "Team Members"
 </div>
 
 <div>
+    <div style="width: 100%;font-weight: 700;color: #4c4c4c;font-size: 26px;margin: 10px;">Wenjun Jiang</div>
+    <div style="float: left;margin-right: 10px;">
+        <img src="/images/wjj.jpg" width="150px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);margin: 10px;">
+    </div>
+    <div style="float: right;display: flex;flex-wrap: wrap;width: 75%;justify-content: space-between;">
+        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Master's student</div>
+        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">08/2024 - Present</div>
+        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;"><a href="mailto:yzfang23@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">yzfang23@m.fudan.edu.cn</a></div>
+    </div>
+    <div style="margin-bottom: 200px;"></div>
+</div>
+
+<div>
     <div style="width: 100%;font-weight: 700;color: #4c4c4c;font-size: 26px;margin: 10px;">Xinyi Zhang</div>
     <div style="float: left;margin-right: 10px;">
         <img src="/images/xyz.jpg" width="150px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);margin: 10px;">
