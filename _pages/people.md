@@ -51,7 +51,7 @@ title: "Team Members"
     <div style="float: right;display: flex;flex-wrap: wrap;width: 75%;justify-content: space-between;">
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Ph.D student</div>
         <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">08/2022 - Present</div>
-        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;"><a href="mailto:yunzhewang22@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">yunzhewang22@m.fudan.edu.cn</a></div>
+        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;"><a href="mailto:yunzhewang24@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">yunzhewang22@m.fudan.edu.cn</a></div>
     </div>
     <div style="margin-bottom: 200px;"></div>
 </div>
