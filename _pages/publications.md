@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2024 ##
 1. Qian, S., Zhang, C., Tang, Y., Dai, M., He, Z., Ma, H., Wang, L., Yang, Q., Liu, Y., Xu, W., **Zhang, Z.,#**, Tang., QQ#. A single-cell sequence analysis of mouse subcutaneous white adipose tissue reveals dynamic changes during weaning. *Commun Biol*. (2024).7, 787 
-2. **Zhang, Z.**, Liu, G., Zhou, Z., Su, Z., Gu, G., Global level of methylation in the sea lamprey (jawless vertebrate) genome is intermediate between invertebrate and jawed vertebrate genomes. *JEZ-B: Molecular and Developmental Evolution*. (2024) https://doi.org/10.1002/jez.b.23250
+2. **Zhang, Z.**, Liu, G., Zhou, Z., Su, Z., Gu, X., Global level of methylation in the sea lamprey (jawless vertebrate) genome is intermediate between invertebrate and jawed vertebrate genomes. *JEZ-B: Molecular and Developmental Evolution*. (2024) https://doi.org/10.1002/jez.b.23250
 
 ## 2023 ##
 1. **Zhang, Z.#**, Gao, Q., Ren, X., Luo, M., Liu, Y., Liu, P., ... & Han, L#. (2023). <a href="https://www.cell.com/the-innovation/fulltext/S2666-6758(23)00110-8">Characterization of intratumor microbiome in cancer immunotherapy[J].</a>  *The Innovation*, 4(5).
