@@ -13,7 +13,7 @@ redirect_from:
 
 Dr. Zhao Zhang
 ======
-Assistant Professors (PI) in Department of Biochemistry and Molecular Biology, Shanghai Medical College, Fudan University.
+Principal Investigator (PI) in Department of Biochemistry and Molecular Biology, Shanghai Medical College, Fudan University.
 
 Experience
 ======
