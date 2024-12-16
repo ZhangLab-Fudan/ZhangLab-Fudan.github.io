@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 ## 2024 ##
-1. Yuan, L., Pan, L.#, Wang, Y. ... Goel,J.#,  **Zhang, Z.#**, & Cheng X.# Characterization of the landscape of the intratumoral microbiota reveals that Streptococcus anginosus increases the risk of gastric cancer initiation and progression. Cell Discov 10, 117 (2024). https://doi.org/10.1038/s41421-024-00746-0
-2. Qian, S., Zhang, C., Tang, Y., Dai, M., He, Z., Ma, H., Wang, L., Yang, Q., Liu, Y., Xu, W., **Zhang, Z.#**, Tang., QQ#. A single-cell sequence analysis of mouse subcutaneous white adipose tissue reveals dynamic changes during weaning. *Commun Biol*. (2024).7, 787 
-3. **Zhang, Z.**, Liu, G., Zhou, Z., Su, Z., Gu, X., Global level of methylation in the sea lamprey (jawless vertebrate) genome is intermediate between invertebrate and jawed vertebrate genomes. *JEZ-B: Molecular and Developmental Evolution*. (2024) https://doi.org/10.1002/jez.b.23250
+1. Yuan, L., Pan, L.#, Wang, Y. ... Goel,J.#,  **Zhang, Z.#**, & Cheng X.# <a href="https://doi.org/10.1038/s41421-024-00746-0">Characterization of the landscape of the intratumoral microbiota reveals that Streptococcus anginosus increases the risk of gastric cancer initiation and progression.</a> *Cell Discovery*, 2024, 10(1): 117.
+2. Qian, S., Zhang, C., Tang, Y., Dai, M., He, Z., Ma, H., Wang, L., Yang, Q., Liu, Y., Xu, W., **Zhang, Z.#**, Tang., QQ#. <a href="https://www.nature.com/articles/s42003-024-06448-3">A single-cell sequence analysis of mouse subcutaneous white adipose tissue reveals dynamic changes during weaning.</a> *Communications Biology*, 2024, 7(1): 787.
+3. **Zhang, Z.**, Liu, G., Zhou, Z., Su, Z., Gu, X., <a href="https://doi.org/10.1002/jez.b.23250">Global level of methylation in the sea lamprey (jawless vertebrate) genome is intermediate between invertebrate and jawed vertebrate genomes.</a> *JEZ-B: Molecular and Developmental Evolution*, 2024. 
 
 ## 2023 ##
-1. **Zhang, Z.#**, Gao, Q., Ren, X., Luo, M., Liu, Y., Liu, P., ... & Han, L#. (2023). <a href="https://www.cell.com/the-innovation/fulltext/S2666-6758(23)00110-8">Characterization of intratumor microbiome in cancer immunotherapy[J].</a>  *The Innovation*, 4(5).
+1. **Zhang, Z.#**, Gao, Q., Ren, X., Luo, M., Liu, Y., Liu, P., ... & Han, L#. (2023). <a href="https://www.cell.com/the-innovation/fulltext/S2666-6758(23)00110-8">Characterization of intratumor microbiome in cancer immunotherapy.</a>  *The Innovation*, 4(5).
 2. Wang, Y., Hong, Q., Xia, Y., **Zhang, Z.#**, & Wen, B. (2023). <a href="https://doi.org/10.1002/advs.202301367">The Lysine Demethylase KDM7A Regulates Immediate Early Genes in Neurons. </a> *Advanced Science*, 10(28), 2301367.
 3. Dong, Y., Gao, Q., Chen, Y., **Zhang, Z.***, Du, Y., Liu, Y., ... & Ye, Y. (2023). <a href="https://www.nature.com/articles/s41467-023-38232-y">Identification of CircRNA signature associated with tumor immune infiltration to predict therapeutic efficacy of immunotherapy.</a> *Nature Communications*, 14(1), 2540.
 
