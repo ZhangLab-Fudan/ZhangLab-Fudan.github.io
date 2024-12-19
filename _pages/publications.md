@@ -12,17 +12,17 @@ author_profile: true
 
 ## 2023 ##
 1. **Zhang, Z.#**, Gao, Q., Ren, X., Luo, M., Liu, Y., Liu, P., ... & Han, L#. (2023). <a href="https://www.cell.com/the-innovation/fulltext/S2666-6758(23)00110-8">Characterization of intratumor microbiome in cancer immunotherapy.</a>  *The Innovation*, 4(5).
-2. Wang, Y., Hong, Q., Xia, Y., **Zhang, Z.#**, & Wen, B. (2023). <a href="https://doi.org/10.1002/advs.202301367">The Lysine Demethylase KDM7A Regulates Immediate Early Genes in Neurons. </a> *Advanced Science*, 10(28), 2301367.
-3. Dong, Y., Gao, Q., Chen, Y., **Zhang, Z.***, Du, Y., Liu, Y., ... & Ye, Y. (2023). <a href="https://www.nature.com/articles/s41467-023-38232-y">Identification of CircRNA signature associated with tumor immune infiltration to predict therapeutic efficacy of immunotherapy.</a> *Nature Communications*, 14(1), 2540.
+2. Wang, Y., Hong, Q., Xia, Y., **Zhang, Z.#**, & Wen, B#. (2023). <a href="https://doi.org/10.1002/advs.202301367">The Lysine Demethylase KDM7A Regulates Immediate Early Genes in Neurons. </a> *Advanced Science*, 10(28), 2301367.
+3. Dong, Y., Gao, Q., Chen, Y., **Zhang, Z.***, Du, Y., Liu, Y., ... & Ye, Y#. (2023). <a href="https://www.nature.com/articles/s41467-023-38232-y">Identification of CircRNA signature associated with tumor immune infiltration to predict therapeutic efficacy of immunotherapy.</a> Nature Communications*, 14(1), 2540.
 
 ## 2022 ##
 1. Wang, Y., Zhang, C., Wang, Y., Liu, X., & **Zhang, Z#**. (2022). <a href="https://www.mdpi.com/1422-0067/23/19/11582">Enhancer RNA (eRNA) in Human Diseases. </a> *International Journal of Molecular Sciences*, 23(19), 11582.
-2. **Zhang, Z.#**, Luo, M., Li, Q., Liu, Y., Lussier, C., Zhang, J., ... & Han, L. (2022). <a href="https://aacrjournals.org/cancerres/article/82/5/785/681770/Genetic-Pharmacogenomic-and-Immune-Landscapes-of">Genetic, pharmacogenomic, and immune landscapes of enhancer RNAs across human cancers.</a> *Cancer Research*, 82(5), 785-790.
-3. Jin, W., Jiang, G., Yang, Y., Yang, J., Yang, W., Wang, D., ... **Zhang, Z.#** & Gong, J. (2022). <a href="https://academic.oup.com/nar/article/50/D1/D46/6374163">Animal-eRNAdb: a comprehensive animal enhancer RNA database.</a> *Nucleic Acids Research*, 50(D1), D46-D53.
+2. **Zhang, Z.#**, Luo, M., Li, Q., Liu, Y., Lussier, C., Zhang, J., ... & Han, L.# (2022). <a href="https://aacrjournals.org/cancerres/article/82/5/785/681770/Genetic-Pharmacogenomic-and-Immune-Landscapes-of">Genetic, pharmacogenomic, and immune landscapes of enhancer RNAs across human cancers.</a> *Cancer Research*, 82(5), 785-790.
+3. Jin, W., Jiang, G., Yang, Y., Yang, J., Yang, W., Wang, D., ... **Zhang, Z.#** & Gong, J.# (2022). <a href="https://academic.oup.com/nar/article/50/D1/D46/6374163">Animal-eRNAdb: a comprehensive animal enhancer RNA database.</a> *Nucleic Acids Research*, 50(D1), D46-D53.
 
 ## 2021 ##
 1. **Zhang, Z.**, & Han, L. (2021). <a href="https://www.nature.com/articles/s41587-021-00916-5">Circular RNAs sequenced at last.</a> *Nature Biotechnology*, 39(7), 811-812.
-2. Shao, K., Pu, W., Zhang, J., Guo, S., Qian, F., Glurich, I., ... **Zhang, Z.#** & Ding, W. (2021). <a href="https://link.springer.com/article/10.1186/s13148-021-01071-z">DNA hypermethylation contributes to colorectal cancer metastasis by regulating the binding of CEBPB and TFCP2 to the CPEB1 promoter.</a> *Clinical epigenetics*, 13(1), 89.
+2. Shao, K., Pu, W., Zhang, J., Guo, S., Qian, F., Glurich, I., ... **Zhang, Z.#** & Ding, W.# (2021). <a href="https://link.springer.com/article/10.1186/s13148-021-01071-z">DNA hypermethylation contributes to colorectal cancer metastasis by regulating the binding of CEBPB and TFCP2 to the CPEB1 promoter.</a> *Clinical epigenetics*, 13(1), 89.
 3. **Zhang, Z.#**, Zhang, J., Diao, L., & Han, L. (2021). <a href="https://www.nature.com/articles/s41388-020-01630-3">Small non-coding RNAs in human cancer: Function, clinical utility, and characterization.</a> *Oncogene*, 40(9), 1570-1577.
 4. Li, Y., Tan, Z., Zhang, Y., **Zhang, Z.**, Hu, Q., Liang, K., ... & Yang, L. (2021). <a href="https://www.science.org/doi/full/10.1126/science.aba4991">A noncoding RNA modulator potentiates phenylalanine metabolism in mice.</a> *Science*, 373(6555), 662-673.
 5. **Zhang, Z.#**, Hong, W., Ruan, H., Jing, Y., Li, S., Liu, Y., ... & Han, L. (2021). <a href="https://academic.oup.com/nar/article/49/D1/D932/5943192">HeRA: An atlas of enhancer RNAs across human tissues.</a> *Nucleic acids research*, 49(D1), D932-D938.
