@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2025 ##
-1. Chen, C.*, **Zhang, Z.***, Liu Y.*, Hong W.*,  ... Han L.# <a href="https://www.science.org/doi/10.1126/sciadv.adn1927">Comprehensive characterization of the transcriptional landscape in Alzheimer’s disease (AD) brains.</a> *Science Advances*, 2025, 11(1), sciadv.adn1927.
+1. Chen, C., **Zhang, Z.**, Liu Y., Hong W.,  ... Han L.# <a href="https://www.science.org/doi/10.1126/sciadv.adn1927">Comprehensive characterization of the transcriptional landscape in Alzheimer’s disease (AD) brains.</a> *Science Advances*, 2025, 11(1), sciadv.adn1927.
 .
 
 ## 2024 ##
