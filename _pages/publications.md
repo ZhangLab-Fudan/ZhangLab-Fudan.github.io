@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2025 ##
-1. Chen, C., **Zhang, Z.**, Liu Y., Hong W.,  ... Han L.# <a href="https://www.science.org/doi/10.1126/sciadv.adn1927">Comprehensive characterization of the transcriptional landscape in Alzheimer’s disease (AD) brains.</a> *Science Advances*, 2025, 11(1), sciadv.adn1927.
+1. Zhang, C., Chen, Y., Han, L., Wang, Y., & **Zhang, Z.**, <a href="[https://www.science.org/doi/10.1126/sciadv.adn1927](https://aacrjournals.org/cancerres/article-abstract/doi/10.1158/0008-5472.CAN-24-2289/751394/Characterization-of-an-Enhancer-RNA-Signature?redirectedFrom=fulltext)">Characterization of an Enhancer RNA Signature Reveals Treatment Strategies for Improving Immunotherapy Efficacy in Cancer.</a> *Cancer Research*, 2025, 10.1158/0008-5472.CAN-24-2289.
+2. Chen, C., **Zhang, Z.**, Liu Y., Hong W.,  ... Han L.# <a href="https://www.science.org/doi/10.1126/sciadv.adn1927">Comprehensive characterization of the transcriptional landscape in Alzheimer’s disease (AD) brains.</a> *Science Advances*, 2025, 11(1), sciadv.adn1927.
 
 ## 2024 ##
 1. Yuan, L., Pan, L.#, Wang, Y. ... Goel,J.#,  **Zhang, Z.#**, & Cheng X.# <a href="https://doi.org/10.1038/s41421-024-00746-0">Characterization of the landscape of the intratumoral microbiota reveals that Streptococcus anginosus increases the risk of gastric cancer initiation and progression.</a> *Cell Discovery*, 2024, 10(1): 117.
