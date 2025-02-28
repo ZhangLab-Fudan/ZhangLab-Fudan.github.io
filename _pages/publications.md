@@ -4,8 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+Marks: Corresponding author#.
+
 ## 2025 ##
-1. Zhang, C., Chen, Y., Han, L., Wang, Y., & **Zhang, Z.**, <a href="https://doi.org/10.1158/0008-5472.CAN-24-2289">Characterization of an Enhancer RNA Signature Reveals Treatment Strategies for Improving Immunotherapy Efficacy in Cancer.</a> *Cancer Research*, 2025, 10.1158/0008-5472.CAN-24-2289.
+1. Zhang, C., Chen, Y., Han, L., Wang, Y., & **Zhang, Z.**, <a href="https://doi.org/10.1158/0008-5472.CAN-24-2289">Characterization of an Enhancer RNA Signature Reveals Treatment Strategies for Improving Immunotherapy Efficacy in Cancer.</a> *Cancer Research*, 2025, 10.
 2. Chen, C., **Zhang, Z.**, Liu Y., Hong W.,  ... Han L.# <a href="https://www.science.org/doi/10.1126/sciadv.adn1927">Comprehensive characterization of the transcriptional landscape in Alzheimer’s disease (AD) brains.</a> *Science Advances*, 2025, 11(1), sciadv.adn1927.
 3. Wang, Y., ... **Zhang, Z.#**,  Han L.# <a href="https://doi.org/10.1093/gpbjnl/qzaf001">Characterization of Tumor Antigens from Multi-omics Data: Computational Approaches and Resources.</a> *Genomics, Proteomics & Bioinformatics*, 2025, qzaf001.
 
@@ -41,7 +44,6 @@ author_profile: true
 6. Hong, W., Ruan, H., **Zhang, Z.**, Ye, Y., Liu, Y., Li, S., ... & Han, L. (2020). <a href="https://academic.oup.com/nar/article/48/D1/D34/5581730">APAatlas: decoding alternative polyadenylation across human tissues.</a> *Nucleic acids research*, 48(D1), D34-D39.
 
 ## Before 2020 ##
-1. **Zhang, Z.**, Lee, J. H., Ruan, H., Ye, Y., Krakowiak, J., Hu, Q., ... & Han, L. (2019). <a href="https://www.nature.com/articles/s41467-019-12543-5">Transcriptional landscape and clinical utility of enhancer RNAs for eRNA-targeted therapy in cancer. *Nature communications*, 10(1), 4562.
+1. **Zhang, Z.**, Lee, J. H., Ruan, H., Ye, Y., Krakowiak, J., Hu, Q., ... & Han, L. (2019). <a href="https://www.nature.com/articles/s41467-019-12543-5">Transcriptional landscape and clinical utility of enhancer RNAs for eRNA-targeted therapy in cancer.</a> *Nature communications*, 10(1), 4562.
 2. **Zhang, Z.**, Ye, Y., Gong, J., Ruan, H., Liu, C. J., Xiang, Y., ... & Han, L. (2018). <a href="https://www.nature.com/articles/s42003-018-0239-8">Global analysis of tRNA and translation factor expression reveals a dynamic landscape of translational regulation in human cancers.</a> *Communications Biology*, 1(1), 234.
 
-# corresponding author
