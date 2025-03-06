@@ -24,26 +24,33 @@ title: "Team Members"
                 <tr>
                     <td align="left">Postdoc, University of Texas Health Science center at Houston (UThealth, 2021)</td>
                 </tr>
-            </table frame=void >
+            </table>
         </td>
     </tr>
 </table>
 
 ## Chenyang Zhang
 
-<div>
-    <div style="float: left;margin-right: 10px;">
-        <img src="/images/cyz.jpg" width="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);margin: 10px;">
-    </div>
-    <div style="float: right;display: flex;flex-wrap: wrap;width: 75%;justify-content: space-between;">
-        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Ph.D. Candidate</div>
-        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">08/2021 - Present</div>
-        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;"><a href="mailto:zhangcy23@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">zhangcy23@m.fudan.edu.cn</a></div>
-    </div>
-    <div style="margin-bottom: 200px;"></div>
-</div>
-<br/>
-<br/>
+<table frame=void >
+    <tr>
+        <td width="20%" height="100%">
+            <img src="/images/cyz.jpg" width="150px" style="margin: 10px;">
+        </td>
+        <td width="80%">
+            <table frame=void >
+                <tr>
+                    <td align="left">Ph.D. Candidate</td>
+                </tr>
+                <tr>
+                    <td align="left">08/2021 - Present</td>
+                </tr>
+                <tr>
+                    <td align="left"><a href="mailto:zhangcy23@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">zhangcy23@m.fudan.edu.cn</a></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
 
 ## Wei Hu
 
