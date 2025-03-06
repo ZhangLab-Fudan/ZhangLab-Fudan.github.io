@@ -5,20 +5,29 @@ title: "Team Members"
 
 ## Dr. Zhao Zhang
 
-<div>
-    <div style="float: left;margin-right: 10px;">
-        <img src="/images/zz.jpg" width="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);margin: 10px;">
-    </div>
-    <div style="float: right;display: flex;flex-wrap: wrap;width: 75%;justify-content: space-between;">
-        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">PI in Department of Biochemistry and Molecular Biology, Shanghai Medical College, Fudan University.</div>
-        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;"><a href="mailto:zhaozhang@fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">zhaozhang@fudan.edu.cn</a></div>
-        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Ph.D., Bioinformatics, Fudan University (2016)</div>
-        <div style="width: 80%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">Postdoc, University of Texas Health Science center at Houston (UThealth, 2021)</div>
-    </div>
-    <div style="margin-bottom: 200px;"></div>
-</div>
-<br/>
-<br/>
+<table>
+    <tr>
+        <td width="20%" height="100%">
+            <img src="/images/zz.jpg" width="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);margin: 10px;">
+        </td>
+        <td width="80%">
+            <table>
+                <tr>
+                    <td align="left">PI in Department of Biochemistry and Molecular Biology, Shanghai Medical College, Fudan University.</td>
+                </tr>
+                <tr>
+                    <td align="left"><a href="mailto:zhaozhang@fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">zhaozhang@fudan.edu.cn</a></td>
+                </tr>
+                <tr>
+                    <td align="left">Ph.D., Bioinformatics, Fudan University (2016)</td>
+                </tr>
+                <tr>
+                    <td align="left">Postdoc, University of Texas Health Science center at Houston (UThealth, 2021)</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
 
 ## Chenyang Zhang
 
