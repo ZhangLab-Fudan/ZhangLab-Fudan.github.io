@@ -3,8 +3,9 @@ permalink: /people/
 title: "Team Members"
 ---
 
+## Dr. Zhao Zhang
+
 <div>
-    <div style="width: 100%;font-weight: 700;color: #4c4c4c;font-size: 26px;margin: 10px;">Dr. Zhao Zhang</div>
     <div style="float: left;margin-right: 10px;">
         <img src="/images/zz.jpg" width="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);margin: 10px;">
     </div>
@@ -17,10 +18,9 @@ title: "Team Members"
     <div style="margin-bottom: 200px;"></div>
 </div>
 
-======
+## Chenyang Zhang
 
 <div>
-    <div style="width: 100%;font-weight: 700;color: #4c4c4c;font-size: 26px;margin: 10px;">Chenyang Zhang</div>
     <div style="float: left;margin-right: 10px;">
         <img src="/images/cyz.jpg" width="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);margin: 10px;">
     </div>
@@ -32,10 +32,9 @@ title: "Team Members"
     <div style="margin-bottom: 200px;"></div>
 </div>
 
-======
+## Wei Hu
 
 <div>
-    <div style="width: 100%;font-weight: 700;color: #4c4c4c;font-size: 26px;margin: 10px;">Wei Hu</div>
     <div style="float: left;margin-right: 10px;">
         <img src="/images/wh.jpg" width="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);margin: 10px;">
     </div>
@@ -47,10 +46,9 @@ title: "Team Members"
     <div style="margin-bottom: 200px;"></div>
 </div>
 
-======
+## Yunzhe Wang
 
 <div>
-    <div style="width: 100%;font-weight: 700;color: #4c4c4c;font-size: 26px;margin: 10px;">Yunzhe Wang</div>
     <div style="float: left;margin-right: 10px;">
         <img src="/images/yzw.jpg" width="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);margin: 10px;">
     </div>
@@ -62,10 +60,9 @@ title: "Team Members"
     <div style="margin-bottom: 200px;"></div>
 </div>
 
-======
+## Xiwen Yang
 
 <div>
-    <div style="width: 100%;font-weight: 700;color: #4c4c4c;font-size: 26px;margin: 10px;">Xiwen Yang</div>
     <div style="float: left;margin-right: 10px;">
         <img src="/images/xwy.jpg" width="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);margin: 10px;">
     </div>
@@ -77,10 +74,9 @@ title: "Team Members"
     <div style="margin-bottom: 200px;"></div>
 </div>
 
-======
+## Yuzhu Fang
 
 <div>
-    <div style="width: 100%;font-weight: 700;color: #4c4c4c;font-size: 26px;margin: 10px;">Yuzhu Fang</div>
     <div style="float: left;margin-right: 10px;">
         <img src="/images/yzf.jpg" width="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);margin: 10px;">
     </div>
@@ -92,10 +88,9 @@ title: "Team Members"
     <div style="margin-bottom: 200px;"></div>
 </div>
 
-======
+## Wenjun Jiang
 
 <div>
-    <div style="width: 100%;font-weight: 700;color: #4c4c4c;font-size: 26px;margin: 10px;">Wenjun Jiang</div>
     <div style="float: left;margin-right: 10px;">
         <img src="/images/wjj.jpg" width="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);margin: 10px;">
     </div>
@@ -107,10 +102,9 @@ title: "Team Members"
     <div style="margin-bottom: 200px;"></div>
 </div>
 
-======
+## Xinyi Zhang
 
 <div>
-    <div style="width: 100%;font-weight: 700;color: #4c4c4c;font-size: 26px;margin: 10px;">Xinyi Zhang</div>
     <div style="float: left;margin-right: 10px;">
         <img src="/images/xyz.jpg" width="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);margin: 10px;">
     </div>
