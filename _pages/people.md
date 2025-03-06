@@ -82,6 +82,7 @@ title: "Team Members"
                         <p style="font-weight: 700;font-size: 20px;">08/2022 - Present</p>
                         <p style="font-weight: 700;font-size: 20px;"><a href="mailto:yunzhewang24@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">yunzhewang24@m.fudan.edu.cn</a></p>
                     </td>
+                </tr>
             </table>
         </td>
     </tr>
@@ -123,6 +124,7 @@ title: "Team Members"
                         <p style="font-weight: 700;font-size: 20px;">08/2023 - Present</p>
                         <p style="font-weight: 700;font-size: 20px;"><a href="mailto:yzfang23@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">yzfang23@m.fudan.edu.cn</a></p>
                     </td>
+                </tr>
             </table>
         </td>
     </tr>
@@ -143,6 +145,7 @@ title: "Team Members"
                         <p style="font-weight: 700;font-size: 20px;">08/2024 - Present</p>
                         <p style="font-weight: 700;font-size: 20px;"><a href="mailto:24211010011@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">24211010011@m.fudan.edu.cn</a></p>
                     </td>
+                </tr>
             </table>
         </td>
     </tr>
@@ -163,6 +166,7 @@ title: "Team Members"
                         <p style="font-weight: 700;font-size: 20px;">08/2023 - Present</p>
                         <p style="font-weight: 700;font-size: 20px;"><a href="mailto:20301050261@fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">20301050261@fudan.edu.cn</a></p>
                     </td>
+                </tr>
             </table>
         </td>
     </tr>
