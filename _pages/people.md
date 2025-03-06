@@ -5,13 +5,13 @@ title: "Team Members"
 
 ## Dr. Zhao Zhang
 
-<table>
+<table frame=void >
     <tr>
         <td width="20%" height="100%">
-            <img src="/images/zz.jpg" width="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);margin: 10px;">
+            <img src="/images/zz.jpg" width="150px" style="margin: 10px;">
         </td>
         <td width="80%">
-            <table>
+            <table frame=void >
                 <tr>
                     <td align="left">PI in Department of Biochemistry and Molecular Biology, Shanghai Medical College, Fudan University.</td>
                 </tr>
@@ -24,7 +24,7 @@ title: "Team Members"
                 <tr>
                     <td align="left">Postdoc, University of Texas Health Science center at Houston (UThealth, 2021)</td>
                 </tr>
-            </table>
+            </table frame=void >
         </td>
     </tr>
 </table>
