@@ -61,6 +61,7 @@ title: "Team Members"
                         <p>08/2022 - Present</p>
                         <p><a href="mailto:whu22@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">whu22@m.fudan.edu.cn</a></p>
                     </td>
+                </tr>
             </table>
         </td>
     </tr>
