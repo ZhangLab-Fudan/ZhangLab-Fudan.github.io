@@ -17,10 +17,8 @@ title: "Team Members"
     </div>
     <div style="margin-bottom: 200px;"></div>
 </div>
-
-</br>
-</br>
-</br>
+<br/>
+<br/>
 
 ## Chenyang Zhang
 
@@ -35,10 +33,8 @@ title: "Team Members"
     </div>
     <div style="margin-bottom: 200px;"></div>
 </div>
-
-</br>
-</br>
-</br>
+<br/>
+<br/>
 
 ## Wei Hu
 
@@ -53,10 +49,8 @@ title: "Team Members"
     </div>
     <div style="margin-bottom: 200px;"></div>
 </div>
-
-</br>
-</br>
-</br>
+<br/>
+<br/>
 
 ## Yunzhe Wang
 
@@ -71,10 +65,8 @@ title: "Team Members"
     </div>
     <div style="margin-bottom: 200px;"></div>
 </div>
-
-</br>
-</br>
-</br>
+<br/>
+<br/>
 
 ## Xiwen Yang
 
@@ -89,10 +81,8 @@ title: "Team Members"
     </div>
     <div style="margin-bottom: 200px;"></div>
 </div>
-
-</br>
-</br>
-</br>
+<br/>
+<br/>
 
 ## Yuzhu Fang
 
@@ -107,10 +97,8 @@ title: "Team Members"
     </div>
     <div style="margin-bottom: 200px;"></div>
 </div>
-
-</br>
-</br>
-</br>
+<br/>
+<br/>
 
 ## Wenjun Jiang
 
@@ -125,10 +113,8 @@ title: "Team Members"
     </div>
     <div style="margin-bottom: 200px;"></div>
 </div>
-
-</br>
-</br>
-</br>
+<br/>
+<br/>
 
 ## Xinyi Zhang
 
@@ -143,4 +129,5 @@ title: "Team Members"
     </div>
     <div style="margin-bottom: 200px;"></div>
 </div>
-
+<br/>
+<br/>
