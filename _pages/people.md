@@ -14,10 +14,10 @@ title: "Team Members"
             <table frame="void" rules="none" >
                 <tr>
                     <td align="left">
-                        <p style="font-weight: 700;font-size: 20px;">PI in Department of Biochemistry and Molecular Biology, Shanghai Medical College, Fudan University.</p>
-                        <p style="font-weight: 700;font-size: 20px;"><a href="mailto:zhaozhang@fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">zhaozhang@fudan.edu.cn</a></p>
-                        <p style="font-weight: 700;font-size: 20px;">Ph.D., Bioinformatics, Fudan University (2016).</p>
-                        <p style="font-weight: 700;font-size: 20px;">Postdoc, University of Texas Health Science center at Houston (UThealth, 2021).</p>
+                        <p style="font-size: 16px;">PI in Department of Biochemistry and Molecular Biology, Shanghai Medical College, Fudan University.</p>
+                        <p style="font-size: 16px;"><a href="mailto:zhaozhang@fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">zhaozhang@fudan.edu.cn</a></p>
+                        <p style="font-size: 16px;">Ph.D., Bioinformatics, Fudan University (2016).</p>
+                        <p style="font-size: 16px;">Postdoc, University of Texas Health Science center at Houston (UThealth, 2021).</p>
                     </td>
                 </tr>
             </table>
@@ -36,9 +36,9 @@ title: "Team Members"
             <table frame="void" rules="none" >
                 <tr>
                     <td align="left">
-                        <p style="font-weight: 700;font-size: 20px;">Ph.D. Candidate</p>
-                        <p style="font-weight: 700;font-size: 20px;">08/2021 - Present</p>
-                        <p style="font-weight: 700;font-size: 20px;"><a href="mailto:zhangcy23@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">zhangcy23@m.fudan.edu.cn</a></p>
+                        <p style="font-size: 16px;">Ph.D. Candidate</p>
+                        <p style="font-size: 16px;">08/2021 - Present</p>
+                        <p style="font-size: 16px;"><a href="mailto:zhangcy23@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">zhangcy23@m.fudan.edu.cn</a></p>
                     </td>
                 </tr>
             </table>
@@ -57,9 +57,9 @@ title: "Team Members"
             <table frame=void rules=none >
                 <tr>
                     <td align="left">
-                        <p style="font-weight: 700;font-size: 20px;">Ph.D. Candidate</p>
-                        <p style="font-weight: 700;font-size: 20px;">08/2022 - Present</p>
-                        <p style="font-weight: 700;font-size: 20px;"><a href="mailto:whu22@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">whu22@m.fudan.edu.cn</a></p>
+                        <p style="font-size: 16px;">Ph.D. Candidate</p>
+                        <p style="font-size: 16px;">08/2022 - Present</p>
+                        <p style="font-size: 16px;"><a href="mailto:whu22@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">whu22@m.fudan.edu.cn</a></p>
                     </td>
                 </tr>
             </table>
@@ -78,9 +78,9 @@ title: "Team Members"
             <table frame=void rules=none >
                 <tr>
                     <td align="left">
-                        <p style="font-weight: 700;font-size: 20px;">Ph.D. Candidate</p>
-                        <p style="font-weight: 700;font-size: 20px;">08/2022 - Present</p>
-                        <p style="font-weight: 700;font-size: 20px;"><a href="mailto:yunzhewang24@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">yunzhewang24@m.fudan.edu.cn</a></p>
+                        <p style="font-size: 16px;">Ph.D. Candidate</p>
+                        <p style="font-size: 16px;">08/2022 - Present</p>
+                        <p style="font-size: 16px;"><a href="mailto:yunzhewang24@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">yunzhewang24@m.fudan.edu.cn</a></p>
                     </td>
                 </tr>
             </table>
@@ -99,9 +99,9 @@ title: "Team Members"
             <table frame=void rules=none >
                 <tr>
                     <td align="left">
-                        <p style="font-weight: 700;font-size: 20px;">Ph.D. Candidate</p>
-                        <p style="font-weight: 700;font-size: 20px;">08/2023 - Present</p>
-                        <p style="font-weight: 700;font-size: 20px;"><a href="mailto:23111010018@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">23111010018@m.fudan.edu.cn</a></p>
+                        <p style="font-size: 16px;">Ph.D. Candidate</p>
+                        <p style="font-size: 16px;">08/2023 - Present</p>
+                        <p style="font-size: 16px;"><a href="mailto:23111010018@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">23111010018@m.fudan.edu.cn</a></p>
                     </td>
                 </tr>
             </table>
@@ -120,9 +120,9 @@ title: "Team Members"
             <table frame=void rules=none >
                 <tr>
                     <td align="left">
-                        <p style="font-weight: 700;font-size: 20px;">Master's Student</p>
-                        <p style="font-weight: 700;font-size: 20px;">08/2023 - Present</p>
-                        <p style="font-weight: 700;font-size: 20px;"><a href="mailto:yzfang23@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">yzfang23@m.fudan.edu.cn</a></p>
+                        <p style="font-size: 16px;">Master's Student</p>
+                        <p style="font-size: 16px;">08/2023 - Present</p>
+                        <p style="font-size: 16px;"><a href="mailto:yzfang23@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">yzfang23@m.fudan.edu.cn</a></p>
                     </td>
                 </tr>
             </table>
@@ -141,9 +141,9 @@ title: "Team Members"
             <table frame=void rules=none >
                 <tr>
                     <td align="left">
-                        <p style="font-weight: 700;font-size: 20px;">Master's Student</p>
-                        <p style="font-weight: 700;font-size: 20px;">08/2024 - Present</p>
-                        <p style="font-weight: 700;font-size: 20px;"><a href="mailto:24211010011@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">24211010011@m.fudan.edu.cn</a></p>
+                        <p style="font-size: 16px;">Master's Student</p>
+                        <p style="font-size: 16px;">08/2024 - Present</p>
+                        <p style="font-size: 16px;"><a href="mailto:24211010011@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">24211010011@m.fudan.edu.cn</a></p>
                     </td>
                 </tr>
             </table>
@@ -162,9 +162,9 @@ title: "Team Members"
             <table frame=void rules=none >
                 <tr>
                     <td align="left">
-                        <p style="font-weight: 700;font-size: 20px;">Undergraduate Student</p>
-                        <p style="font-weight: 700;font-size: 20px;">08/2023 - Present</p>
-                        <p style="font-weight: 700;font-size: 20px;"><a href="mailto:20301050261@fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">20301050261@fudan.edu.cn</a></p>
+                        <p style="font-size: 16px;">Undergraduate Student</p>
+                        <p style="font-size: 16px;">08/2023 - Present</p>
+                        <p style="font-size: 16px;"><a href="mailto:20301050261@fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">20301050261@fudan.edu.cn</a></p>
                     </td>
                 </tr>
             </table>
