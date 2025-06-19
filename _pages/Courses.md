@@ -5,4 +5,4 @@ title: "Courses"
 
 ## Genomics
 
-Course link: [Genomics](/courses/Genomics.html)
+Course link: [Genomics](/courses/genomics/)
