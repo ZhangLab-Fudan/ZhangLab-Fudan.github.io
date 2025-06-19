@@ -11,3 +11,6 @@ main:
     
   - title: <img src="/images/resource.png" width="30" height="30"> Resources
     url: /resources/
+
+  - title: <img src="/images/course.png" width="30" height="30"> Courses
+    url: /courses/
