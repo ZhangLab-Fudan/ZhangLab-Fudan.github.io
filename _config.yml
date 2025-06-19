@@ -157,6 +157,9 @@ collections:
   resources:
     output: true
     permalink: /:collection/:path/
+  cources:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -200,6 +203,15 @@ defaults:
   - scope:
       path: ""
       type: resources
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _courses
+  - scope:
+      path: ""
+      type: courses
     values:
       layout: single
       author_profile: true
