@@ -3,8 +3,6 @@ permalink: /courses/
 title: "Courses"
 ---
 
-## Genomics
-
-| Course code | Course link | Time | 
+| Name | Code | Time | 
 | ------ | ------ | ------ |
-| MED130478 | [Genomics - Next Generation Sequencing from Experiment to Data Analysis](/courses/genomics/) | June 2025 |
+| [Genomics - Next Generation Sequencing from Experiment to Data Analysis](/courses/genomics/) | MED130478 | June 2025 |
