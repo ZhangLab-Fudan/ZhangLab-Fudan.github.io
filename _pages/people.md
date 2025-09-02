@@ -172,6 +172,27 @@ title: "Team Members"
     </tr>
 </table>
 
+## Zhenhong Xie
+
+<table width="100%" frame=void rules=none >
+    <tr>
+        <td width="20%" height="100%">
+            <img src="/images/zhx.jpg" width="150px">
+        </td>
+        <td width="80%">
+            <table frame=void rules=none >
+                <tr>
+                    <td align="left">
+                        <p style="font-size: 16px;">Master's Student</p>
+                        <p style="font-size: 16px;">09/2025 - Present</p>
+                        <p style="font-size: 16px;"><a href="mailto:25211010018@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">25211010018@m.fudan.edu.cn</a></p>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
 ## Xinyi Zhang
 
 <table width="100%" frame=void rules=none >
