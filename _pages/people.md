@@ -109,6 +109,27 @@ title: "Team Members"
     </tr>
 </table>
 
+## Yajun Yan
+
+<table width="100%" frame=void rules=none >
+    <tr>
+        <td width="20%" height="100%">
+            <img src="/images/yjy.jpg" width="150px">
+        </td>
+        <td width="80%">
+            <table frame=void rules=none >
+                <tr>
+                    <td align="left">
+                        <p style="font-size: 16px;">Ph.D. Candidate</p>
+                        <p style="font-size: 16px;">09/2024 - Present</p>
+                        <p style="font-size: 16px;"><a href="mailto:25111010022@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">25111010022@m.fudan.edu.cn</a></p>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
 ## Yuzhu Fang
 
 <table width="100%" frame=void rules=none >
