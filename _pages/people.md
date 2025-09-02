@@ -171,3 +171,24 @@ title: "Team Members"
         </td>
     </tr>
 </table>
+
+## Liya Su
+
+<table width="100%" frame=void rules=none >
+    <tr>
+        <td width="20%" height="100%">
+            <img src="/images/lys.jpg" width="150px">
+        </td>
+        <td width="80%">
+            <table frame=void rules=none >
+                <tr>
+                    <td align="left">
+                        <p style="font-size: 16px;">Undergraduate Student</p>
+                        <p style="font-size: 16px;">08/2024 - Present</p>
+                        <p style="font-size: 16px;"><a href="mailto:21301010143@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">21301010143@m.fudan.edu.cn</a></p>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
