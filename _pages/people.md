@@ -25,7 +25,8 @@ title: "Team Members"
     </tr>
 </table>
 
-## Chenyang Zhang
+## Ph.D. Candidate
+### Chenyang Zhang
 
 <table width="100%" frame="void" rules="none" >
     <tr>
@@ -46,7 +47,7 @@ title: "Team Members"
     </tr>
 </table>
 
-## Wei Hu
+### Wei Hu
 
 <table width="100%" frame=void rules=none >
     <tr>
@@ -67,7 +68,7 @@ title: "Team Members"
     </tr>
 </table>
 
-## Yunzhe Wang
+### Yunzhe Wang
 
 <table width="100%" frame=void rules=none >
     <tr>
@@ -88,7 +89,7 @@ title: "Team Members"
     </tr>
 </table>
 
-## Xiwen Yang
+### Xiwen Yang
 
 <table width="100%" frame=void rules=none >
     <tr>
@@ -109,7 +110,7 @@ title: "Team Members"
     </tr>
 </table>
 
-## Yajun Yan
+### Yajun Yan
 
 <table width="100%" frame=void rules=none >
     <tr>
@@ -130,7 +131,8 @@ title: "Team Members"
     </tr>
 </table>
 
-## Yuzhu Fang
+## Master's Student
+### Yuzhu Fang
 
 <table width="100%" frame=void rules=none >
     <tr>
@@ -151,7 +153,7 @@ title: "Team Members"
     </tr>
 </table>
 
-## Wenjun Jiang
+### Wenjun Jiang
 
 <table width="100%" frame=void rules=none >
     <tr>
@@ -172,7 +174,7 @@ title: "Team Members"
     </tr>
 </table>
 
-## Zhenhong Xie
+### Zhenhong Xie
 
 <table width="100%" frame=void rules=none >
     <tr>
@@ -193,7 +195,8 @@ title: "Team Members"
     </tr>
 </table>
 
-## Xinyi Zhang
+## Undergraduate Student
+### Xinyi Zhang
 
 <table width="100%" frame=void rules=none >
     <tr>
@@ -214,7 +217,7 @@ title: "Team Members"
     </tr>
 </table>
 
-## Liya Su
+### Liya Su
 
 <table width="100%" frame=void rules=none >
     <tr>
