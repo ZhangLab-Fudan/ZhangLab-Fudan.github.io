@@ -11,6 +11,8 @@ Marks: Corresponding author#.
 1. Zhang, C., Chen, Y., Han, L., Wang, Y., & **Zhang, Z.**, <a href="https://doi.org/10.1158/0008-5472.CAN-24-2289">Characterization of an Enhancer RNA Signature Reveals Treatment Strategies for Improving Immunotherapy Efficacy in Cancer.</a> *Cancer Research*, 2025, 10.
 2. Chen, C., **Zhang, Z.**, Liu Y., Hong W.,  ... Han L.# <a href="https://www.science.org/doi/10.1126/sciadv.adn1927">Comprehensive characterization of the transcriptional landscape in Alzheimer’s disease (AD) brains.</a> *Science Advances*, 2025, 11(1), sciadv.adn1927.
 3. Wang, Y., ... **Zhang, Z.#**,  Han L.# <a href="https://doi.org/10.1093/gpbjnl/qzaf001">Characterization of Tumor Antigens from Multi-omics Data: Computational Approaches and Resources.</a> *Genomics, Proteomics & Bioinformatics*, 2025, qzaf001.
+4. Wang, Y., ... **Zhang, Z.#**, <a href="https://www.biorxiv.org/content/10.1101/2025.07.23.666275v1.full">bacNeo: a computational toolkit for bacteria-derived neoantigen identification.</a> bioRxiv, 2025, 2025.07. 23.666275.
+5. Yang J, ... Zengxin Q.#, **Zhao Z.#**, Xiuping L.#, Yuxiang W.#, <a href="https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202503866">Prickle4 Drives Microenvironmental Remodeling and Resistance to Parp Inhibition in IDH‐Mutant Glioma.</a> Advanced Science, 2025, e03866.
 
 ## 2024 ##
 1. Yuan, L., Pan, L.#, Wang, Y. ... Goel,J.#,  **Zhang, Z.#**, & Cheng X.# <a href="https://doi.org/10.1038/s41421-024-00746-0">Characterization of the landscape of the intratumoral microbiota reveals that Streptococcus anginosus increases the risk of gastric cancer initiation and progression.</a> *Cell Discovery*, 2024, 10(1): 117.
