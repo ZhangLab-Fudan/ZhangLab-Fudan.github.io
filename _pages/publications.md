@@ -7,6 +7,9 @@ author_profile: true
 
 Marks: Corresponding author#.
 
+## 2026 ##
+1. Wang, Y., ... **Zhang, Z.#**, <a href="https://onlinelibrary.wiley.com/doi/10.1002/imm3.70040">bacNeo: a computational toolkit for identifying bacteria-derived neoantigens in human cancers.</a> iMetaMed, 2026, e70040.
+
 ## 2025 ##
 1. Zhang, C., Chen, Y., Han, L., Wang, Y., & **Zhang, Z.**, <a href="https://doi.org/10.1158/0008-5472.CAN-24-2289">Characterization of an Enhancer RNA Signature Reveals Treatment Strategies for Improving Immunotherapy Efficacy in Cancer.</a> *Cancer Research*, 2025, 10.
 2. Chen, C., **Zhang, Z.**, Liu Y., Hong W.,  ... Han L.# <a href="https://www.science.org/doi/10.1126/sciadv.adn1927">Comprehensive characterization of the transcriptional landscape in Alzheimer’s disease (AD) brains.</a> *Science Advances*, 2025, 11(1), sciadv.adn1927.
