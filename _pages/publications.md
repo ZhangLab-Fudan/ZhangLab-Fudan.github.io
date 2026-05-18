@@ -9,6 +9,7 @@ Marks: Corresponding author#.
 
 ## 2026 ##
 1. Wang, Y., ... **Zhang, Z.#**, <a href="https://onlinelibrary.wiley.com/doi/10.1002/imm3.70040">bacNeo: a computational toolkit for identifying bacteria-derived neoantigens in human cancers.</a> iMetaMed, 2026, e70040.
+2. Fu, Y., Wang, Y., Chai Z.T., ... **Zhang, Z.#**, <a href = "https://doi.org/10.1093/gpbjnl/qzag037">Characterization of Cancer Hallmark Enhancer RNA Uncovers Novel Strategies for Precision Oncology.</a> *Genomics, Proteomics & Bioinformatics*, 2026, qzag037.
 
 ## 2025 ##
 1. Zhang, C., Chen, Y., Han, L., Wang, Y., & **Zhang, Z.**, <a href="https://doi.org/10.1158/0008-5472.CAN-24-2289">Characterization of an Enhancer RNA Signature Reveals Treatment Strategies for Improving Immunotherapy Efficacy in Cancer.</a> *Cancer Research*, 2025, 10.
