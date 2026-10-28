@@ -47,27 +47,6 @@ title: "Team Members"
     </tr>
 </table>
 
-### Wei Hu
-
-<table width="100%" frame=void rules=none >
-    <tr>
-        <td width="20%" height="100%">
-            <img src="/images/wh.jpg" width="150px">
-        </td>
-        <td width="80%">
-            <table frame=void rules=none >
-                <tr>
-                    <td align="left">
-                        <p style="font-size: 16px;">Ph.D. Candidate</p>
-                        <p style="font-size: 16px;">08/2022 - Present</p>
-                        <p style="font-size: 16px;"><a href="mailto:whu22@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">whu22@m.fudan.edu.cn</a></p>
-                    </td>
-                </tr>
-            </table>
-        </td>
-    </tr>
-</table>
-
 ### Yunzhe Wang
 
 <table width="100%" frame=void rules=none >
@@ -131,27 +110,29 @@ title: "Team Members"
     </tr>
 </table>
 
-## Master's Student
-### Yuzhu Fang
+
+### Liya Su
 
 <table width="100%" frame=void rules=none >
     <tr>
         <td width="20%" height="100%">
-            <img src="/images/yzf.jpg" width="150px">
+            <img src="/images/lys.jpg" width="150px">
         </td>
         <td width="80%">
             <table frame=void rules=none >
                 <tr>
                     <td align="left">
-                        <p style="font-size: 16px;">Master's Student</p>
-                        <p style="font-size: 16px;">08/2023 - Present</p>
-                        <p style="font-size: 16px;"><a href="mailto:yzfang23@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">yzfang23@m.fudan.edu.cn</a></p>
+                        <p style="font-size: 16px;">Ph.D. Candidate</p>
+                        <p style="font-size: 16px;">08/2024 - Present</p>
+                        <p style="font-size: 16px;"><a href="mailto:21301010143@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">21301010143@m.fudan.edu.cn</a></p>
                     </td>
                 </tr>
             </table>
         </td>
     </tr>
 </table>
+
+## Master's Student
 
 ### Wenjun Jiang
 
@@ -217,20 +198,43 @@ title: "Team Members"
     </tr>
 </table>
 
-### Liya Su
+## Graduates
+
+### Wei Hu
 
 <table width="100%" frame=void rules=none >
     <tr>
         <td width="20%" height="100%">
-            <img src="/images/lys.jpg" width="150px">
+            <img src="/images/wh.jpg" width="150px">
         </td>
         <td width="80%">
             <table frame=void rules=none >
                 <tr>
                     <td align="left">
-                        <p style="font-size: 16px;">Undergraduate Student</p>
-                        <p style="font-size: 16px;">08/2024 - Present</p>
-                        <p style="font-size: 16px;"><a href="mailto:21301010143@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">21301010143@m.fudan.edu.cn</a></p>
+                        <p style="font-size: 16px;">Ph.D. graduate</p>
+                        <p style="font-size: 16px;">08/2022 - 09/2026</p>
+                        <p style="font-size: 16px;"><a href="mailto:whu22@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">whu22@m.fudan.edu.cn</a></p>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+### Yuzhu Fang
+
+<table width="100%" frame=void rules=none >
+    <tr>
+        <td width="20%" height="100%">
+            <img src="/images/yzf.jpg" width="150px">
+        </td>
+        <td width="80%">
+            <table frame=void rules=none >
+                <tr>
+                    <td align="left">
+                        <p style="font-size: 16px;">Master's graduate</p>
+                        <p style="font-size: 16px;">08/2023 - 06/2026</p>
+                        <p style="font-size: 16px;"><a href="mailto:yzfang23@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">yzfang23@m.fudan.edu.cn</a></p>
                     </td>
                 </tr>
             </table>
