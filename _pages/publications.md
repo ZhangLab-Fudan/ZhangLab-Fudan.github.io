@@ -12,6 +12,7 @@ Marks: Corresponding author#.
 2. Wang, Y., ... **Zhang, Z.#**, <a href="https://onlinelibrary.wiley.com/doi/10.1002/imm3.70040">bacNeo: a computational toolkit for identifying bacteria-derived neoantigens in human cancers.</a> *iMetaMed*, 2026, e70040.
 3. Fu, Y., Wang, Y., Chai Z.T., ... **Zhang, Z.#**, <a href = "https://doi.org/10.1093/gpbjnl/qzag037">Characterization of Cancer Hallmark Enhancer RNA Uncovers Novel Strategies for Precision Oncology.</a> *Genomics, Proteomics & Bioinformatics*, 2026, qzag037.
 4. Duan G, ... **Zhang, Z.#**, Yuanyuan Qu#, & Gong-Hong Wei#, <a href="https://doi.org/10.1158/0008-5472.CAN-25-5866"> A Germline-Encoded lncRNA-Mitochondrial Axis Rewires Oxidative Phosphorylation to Drive Progression in Clear Cell Renal Cell Carcinoma. </a> *Cancer Research*, 2026.
+5. Zhang C, Wang Y, **Zhang, Z.#**, <a href="https://link.springer.com/protocol/10.1007/978-1-0716-5627-3_12"> A Bioinformatic Framework for Enhancer RNAs Identification in Cancer Based on RNA-Seq and ChIP-Seq.</a> [M] *RNA-Chromatin Interactions: Methods and Protocols.* New York, NY: Springer US, 2026: 191-205.
 
 ## 2025 ##
 1. Zhang, C., Chen, Y., Han, L., Wang, Y., & **Zhang, Z.#**, <a href="https://doi.org/10.1158/0008-5472.CAN-24-2289">Characterization of an Enhancer RNA Signature Reveals Treatment Strategies for Improving Immunotherapy Efficacy in Cancer.</a> *Cancer Research*, 2025, 10.
