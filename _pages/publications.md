@@ -8,11 +8,13 @@ author_profile: true
 Marks: Corresponding author#.
 
 ## 2026 ##
-1. Wang, Y., ... **Zhang, Z.#**, <a href="https://onlinelibrary.wiley.com/doi/10.1002/imm3.70040">bacNeo: a computational toolkit for identifying bacteria-derived neoantigens in human cancers.</a> *iMetaMed*, 2026, e70040.
-2. Fu, Y., Wang, Y., Chai Z.T., ... **Zhang, Z.#**, <a href = "https://doi.org/10.1093/gpbjnl/qzag037">Characterization of Cancer Hallmark Enhancer RNA Uncovers Novel Strategies for Precision Oncology.</a> *Genomics, Proteomics & Bioinformatics*, 2026, qzag037.
+1. Hu W, Jiang W, ..., **Zhang, Z.#**,<a href="https://doi.org/10.1126/sciadv.aec9550"> Comprehensive characterization of transposable element expression reveals regulatory circuitry and clinical implications in cancers. </a> *Science Advances*, 2026, 12(42): eaec9550.
+2. Wang, Y., ... **Zhang, Z.#**, <a href="https://onlinelibrary.wiley.com/doi/10.1002/imm3.70040">bacNeo: a computational toolkit for identifying bacteria-derived neoantigens in human cancers.</a> *iMetaMed*, 2026, e70040.
+3. Fu, Y., Wang, Y., Chai Z.T., ... **Zhang, Z.#**, <a href = "https://doi.org/10.1093/gpbjnl/qzag037">Characterization of Cancer Hallmark Enhancer RNA Uncovers Novel Strategies for Precision Oncology.</a> *Genomics, Proteomics & Bioinformatics*, 2026, qzag037.
+4. Duan G, ... **Zhang, Z.#**, Yuanyuan Qu#, & Gong-Hong Wei#, <a href="https://doi.org/10.1158/0008-5472.CAN-25-5866"> A Germline-Encoded lncRNA-Mitochondrial Axis Rewires Oxidative Phosphorylation to Drive Progression in Clear Cell Renal Cell Carcinoma. </a> *Cancer Research*, 2026.
 
 ## 2025 ##
-1. Zhang, C., Chen, Y., Han, L., Wang, Y., & **Zhang, Z.**, <a href="https://doi.org/10.1158/0008-5472.CAN-24-2289">Characterization of an Enhancer RNA Signature Reveals Treatment Strategies for Improving Immunotherapy Efficacy in Cancer.</a> *Cancer Research*, 2025, 10.
+1. Zhang, C., Chen, Y., Han, L., Wang, Y., & **Zhang, Z.#**, <a href="https://doi.org/10.1158/0008-5472.CAN-24-2289">Characterization of an Enhancer RNA Signature Reveals Treatment Strategies for Improving Immunotherapy Efficacy in Cancer.</a> *Cancer Research*, 2025, 10.
 2. Chen, C., **Zhang, Z.**, Liu Y., Hong W.,  ... Han L.# <a href="https://www.science.org/doi/10.1126/sciadv.adn1927">Comprehensive characterization of the transcriptional landscape in Alzheimer’s disease (AD) brains.</a> *Science Advances*, 2025, 11(1), sciadv.adn1927.
 3. Wang, Y., ... **Zhang, Z.#**,  Han L.# <a href="https://doi.org/10.1093/gpbjnl/qzaf001">Characterization of Tumor Antigens from Multi-omics Data: Computational Approaches and Resources.</a> *Genomics, Proteomics & Bioinformatics*, 2025, qzaf001.
 4. Wang, Y., ... **Zhang, Z.#**, <a href="https://www.biorxiv.org/content/10.1101/2025.07.23.666275v1.full">bacNeo: a computational toolkit for bacteria-derived neoantigen identification.</a> *bioRxiv*, 2025, 2025.07. 23.666275.
