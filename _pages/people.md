@@ -124,7 +124,7 @@ title: "Team Members"
                     <td align="left">
                         <p style="font-size: 16px;">Ph.D. Candidate</p>
                         <p style="font-size: 16px;">08/2024 - Present</p>
-                        <p style="font-size: 16px;"><a href="mailto:21301010143@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">21301010143@m.fudan.edu.cn</a></p>
+                        <p style="font-size: 16px;"><a href="mailto:2611100014@m.fudan.edu.cn" style="text-decoration:underline;color:#50A5BE;">2611100014@m.fudan.edu.cn</a></p>
                     </td>
                 </tr>
             </table>
